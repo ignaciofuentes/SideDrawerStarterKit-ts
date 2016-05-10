@@ -1,11 +1,11 @@
 {
-	"ProjectName": "lsSideDrawer",
+	"ProjectName": "SideDrawerStarkerKit",
 	"ProjectGuid": "{c1e77824-a710-45e2-af72-e206008e7a53}",
 	"projectVersion": 1,
-	"AppIdentifier": "com.telerik.lsSideDrawer",
-	"DisplayName": "lsSideDrawer",
+	"AppIdentifier": "com.telerik.SideDrawerStarkerKit",
+	"DisplayName": "SideDrawerStarkerKit",
 	"Author": "",
-	"Description": "lsSideDrawer",
+	"Description": "SideDrawerStarkerKit",
 	"BundleVersion": "1.0",
 	"AndroidVersionCode": "1",
 	"iOSDeviceFamily": [
