@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"nativescript-statusbar": "1.0.0",
+		"nativescript-telerik-ui": "1.1.0",
+		"tns-core-modules": "1.7.1"
+	},
+	"devDependencies": {}
+}

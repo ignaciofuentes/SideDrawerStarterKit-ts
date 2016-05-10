@@ -1,0 +1,12 @@
+platforms/
+.ab
+*.apk
+*.ipa
+*/bin
+*/obj
+*.user-settings.xml
+.tnsproject
+app/**/*.js
+app/**/*.js.map
+
+
